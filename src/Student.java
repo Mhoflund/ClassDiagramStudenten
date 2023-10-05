@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Student {
+public class Student {
+    private String name;
+    private String Adress;
+    private int
 }
